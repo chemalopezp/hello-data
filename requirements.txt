@@ -2,3 +2,9 @@ python-dotenv
 openai
 panel
 jupyter_bokeh
+pandas
+plotly
+langchain
+langchain-openai
+nbformat==4.2.0
+ipython
