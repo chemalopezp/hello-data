@@ -6,5 +6,6 @@ pandas
 plotly
 langchain
 langchain-openai
-nbformat==4.2.0
+nbformat
 ipython
+boto3
