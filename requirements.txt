@@ -9,3 +9,4 @@ langchain-openai
 nbformat
 ipython
 boto3
+django
