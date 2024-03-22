@@ -1,0 +1,6 @@
+<h1> My Django blog</h1>
+
+<ul> {% for list in posts %}
+    <li> {{ list.title }} - {{ list.author }} - {{ list.date }} - {{ list.body}} </li>
+    {% endfor %}    
+</ul>
